@@ -1,2 +1,3 @@
 testing moons/mars file
-added a second comment  
+added a second comment
+added third line to the file -decision to consider Venus as a base   
